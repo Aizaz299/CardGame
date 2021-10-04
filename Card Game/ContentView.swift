@@ -37,8 +37,8 @@ struct Stacks : View {
                 Image("logo")
             Spacer()
                 HStack{
-                    Image(playerCard).padding(20)
-                    Image(cpuCard).padding(20)
+                    Image(playerCard).padding(15)
+                    Image(cpuCard).padding(15)
                 }
                 Spacer()
                 
