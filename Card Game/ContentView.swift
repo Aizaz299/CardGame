@@ -23,8 +23,8 @@ struct ContentView_Previews: PreviewProvider {
 
 struct Stacks : View {
     
-    @State var playerCard = "card5"
-    @State var cpuCard = "card6"
+    @State var playerCard = "card3"
+    @State var cpuCard = "card2"
     @State var playerScore = 0;
     @State var cpuScore = 0;
     
